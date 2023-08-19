@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "myemail@gmail.com",
+                "Name": "My Name"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "test2",
+        "Icon": "plasma",
+        "Id": "test2",
+        "Name": "test2",
+        "Version": "1",
+        "Website": "https://github.com/Zren/plasmoid-helloworldplugin"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "KPackageStructure": "Plasma/Applet"
+}
